@@ -1,4 +1,3 @@
-
 # Exercício 01 – Perfil em Markdown
 
 ## Objetivo
