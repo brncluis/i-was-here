@@ -1,31 +1,32 @@
-# Nome do Projeto do Grupo <id>
+# Trabalho Erick <sofia_e_luis>
 
 ## Integrantes
-- Nome 1 (@usuario1)
-- Nome 2 (@usuario2)
-- Nome 3 (@usuario3)
-- ...
+- Luis Alves (@brncluis)
+- Sofia Villela (@SofiaVillela)
 
 ## Visão Geral do Projeto
-Escreva aqui 4–6 frases explicando o projeto, sua motivação e seus objetivos.
+Este trabalho reúne quatro atividades para praticar Markdown e colaboração usando Git.
+Primeiro, você cria um mini perfil para marcar presença no repositório.
+Depois, escreve uma pequena história sobre tecnologia, inovação ou cultura digital no Recife.
+Em seguida, monta uma lista das tecnologias que deseja aprender.
+O último exercício é uma colaboração em grupo que simula o fluxo real de PRs em um fork.
+Cada exercício tem um README próprio com explicações claras do que deve ser feito.
 
 ## Público-Alvo
-Descreva quem deve usar o projeto.
+Erick e os alunos
 
 ## Funcionalidades Principais
-- Funcionalidade 1
-- Funcionalidade 2
-- Funcionalidade 3
+- Aprender a usar o git 
+- Aprender a usar o github
+- Trabalho em equipe
 
 ---
 
 ## Contribuições Individuais
 
-### Contribuição de @usuario1
-Descreva em 3–5 frases o que você pretende fazer no projeto e por quê.
+### Contribuição de @brncluis
+Criei o repositorio do lider do exercicio 4
 
-### Contribuição de @usuario2
-(Preenchido pelo próximo integrante)
+### Contribuição de @SofiaVillela
+Fiz o fork do repositorio do lider e fiz o resto do exercicio 4
 
-### Contribuição de @usuario3
-(Preenchido pelo próximo integrante)
